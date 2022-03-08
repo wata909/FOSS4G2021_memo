@@ -2,10 +2,11 @@
 FOSS4G2021の振り返りメモ
 
 ## Community / OSGeo
-### [ The secret life of open source developers](https://callforpapers.2021.foss4g.org/foss4g2021/talk/VCGQZX/)[Video](https://www.youtube.com/watch?v=xDGn6FnPkps)
+### [ The secret life of open source developers](https://callforpapers.2021.foss4g.org/foss4g2021/talk/VCGQZX/)
+#### [Video](https://www.youtube.com/watch?v=xDGn6FnPkps)
 
 ### [The Intersection of Geospatial Open Source and Commerce](https://callforpapers.2021.foss4g.org/foss4g2021/talk/ERGXPC/)  
-[video](https://www.youtube.com/watch?v=2_EKhNNaeyQ)
+#### [video](https://www.youtube.com/watch?v=2_EKhNNaeyQ)
 -  This talk aims to describe several of the different paths that commercial organizations take to leverage free and open technologies for business success.The following three real world examples will illustrate these paths:  
     1. Very small organizations providing FOSS4G consulting and training services
     1. Product companies including FOSS4G tools in powering niche products
